@@ -1,4 +1,4 @@
-# End-to-end-Source-code-analyzer
+# Medical chatbot
 #create conda environment after opening repo
 ```bash
 conda create -n llmapp python=3.10 -y
