@@ -37,7 +37,7 @@ A conversational AI medical chatbot built with Flask, LangChain, Pinecone, and O
 
 ## 📁 Project Structure
 
-
+```
 Medical-Chatbot/
 │
 ├── app.py                  # Flask app and routes
@@ -62,7 +62,7 @@ Medical-Chatbot/
 ├── requirements.txt        # Python dependencies
 ├── LICENSE
 └── README.md
-
+```
 
 -----
 
